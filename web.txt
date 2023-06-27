@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GC Cravings</title>
+  
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Home Page Styles */
+.section-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.section-header h2 {
+  color: #333;
+}
+
+.section-content {
+  text-align: center;
+}
+
+.section-content p {
+  color: #666;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.hero-caption {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.hero-caption h3 {
+  color: #333;
+  font-weight: bold;
+}
+
+.hero-caption p {
+  color: #666;
+}
+</style>
+
+
+</head>
+<body>
+  <header>
+    <h1>Garden City Appetites</h1>
+  </header>
+
+<nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="menu.html">Menu</a></li> <!-- Navigate to menu section -->
+      <li><a href="Reservation.html">Reservations</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>GCU Foodies</h2>
+    <p>Enjoy our delicious cuisine and exceptional service in a cozy and inviting atmosphere.</p>
+    <img src="Food_court.jpg" alt="Restaurant Image" width="400" height="300">
+  </section>
+
+
+  <footer>
+    &copy; 2023 Restaurant Name. All rights reserved.
+  </footer>
+</body>
+</html>

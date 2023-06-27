@@ -1,9 +1,68 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>"images"</title>
+  <title>Yash - Web Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #333333;
+    }
+    
+    p {
+      color: #666666;
+    }
+  </style>
 </head>
 <body>
-<img src="img_VIRAT KOHLI.JPG" alt="virat kohli holding bat" width="500" height="600">
-</img>
+  <h1>About Yash</h1>
+  
+  <img src="yash.jpg" alt="Yash" width="200" height="200">
+  
+  <p>
+    Yash is a talented individual with a passion for learning and exploring the world. Born on [birthdate], Yash has achieved numerous accomplishments in various fields.
+  </p>
+  
+  <h2>Early Life</h2>
+  
+  <p>
+    Yash was born and raised in [place]. From a young age, Yash showed a keen interest in [interest/hobby], which shaped their path in life.
+  </p>
+  
+  <h2>Career</h2>
+  
+  <p>
+    Throughout their career, Yash has made significant contributions in [field/industry]. Their expertise and dedication have earned them recognition and respect from peers and colleagues.
+  </p>
+  
+  <h2>Interests</h2>
+  
+  <p>
+    In their free time, Yash enjoys [list some interests/hobbies]. These activities not only provide relaxation but also serve as a source of inspiration for their work.
+  </p>
+  
+  <h2>Achievements</h2>
+  
+  <ul>
+    <li>First achievement</li>
+    <li>Second achievement</li>
+    <li>Third achievement</li>
+  </ul>
+  
+  <h2>Contact Information</h2>
+  
+  <p>
+    You can reach Yash via email at <a href="mailto:yash@example.com">yash@example.com</a> or connect with them on <a href="https://www.linkedin.com/in/yash">LinkedIn</a>.
+  </p>
 </body>
-<html>
+</html>
+Please note that you will need to have an image of Yash named "yash.jpg" in the same directory as this HTML file for the image to display properly. You can customize the content and styling of the page further according to your preferences.
+
+
+
+
+
+
